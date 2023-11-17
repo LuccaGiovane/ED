@@ -1,0 +1,3 @@
+C:/Users/lucca/Desktop/UEL/ED-2023/P2/Prj 04 - Grafos 2.0/cmake-build-debug/CMakeFiles/Prj_04___Grafos_2_0.dir
+C:/Users/lucca/Desktop/UEL/ED-2023/P2/Prj 04 - Grafos 2.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lucca/Desktop/UEL/ED-2023/P2/Prj 04 - Grafos 2.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
