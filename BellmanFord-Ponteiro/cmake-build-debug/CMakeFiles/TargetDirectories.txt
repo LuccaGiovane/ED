@@ -1,0 +1,3 @@
+C:/Users/lucca/Desktop/UEL/ED-2023/BellmanFord-Ponteiro/cmake-build-debug/CMakeFiles/BellmanFord_Ponteiro.dir
+C:/Users/lucca/Desktop/UEL/ED-2023/BellmanFord-Ponteiro/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lucca/Desktop/UEL/ED-2023/BellmanFord-Ponteiro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
